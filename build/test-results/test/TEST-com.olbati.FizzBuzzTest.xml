@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.olbati.FizzBuzzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-09-27T10:44:28" hostname="Eddys-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="given_input_greater_than_100_should_throw_exception" classname="com.olbati.FizzBuzzTest" time="0.001"/>
+  <testcase name="given_input_is_multiple_of_3_and_5_should_return_fizzbuzz" classname="com.olbati.FizzBuzzTest" time="0.002"/>
+  <testcase name="given_input_is_multiple_of_5_should_return_buzz" classname="com.olbati.FizzBuzzTest" time="0.0"/>
+  <testcase name="given_input_is_not_multiple_of_3_and_5_should_return_input" classname="com.olbati.FizzBuzzTest" time="0.001"/>
+  <testcase name="given_input_lower_than_1_should_throw_exception" classname="com.olbati.FizzBuzzTest" time="0.001"/>
+  <testcase name="given_input_is_multiple_of_3_should_return_fizz" classname="com.olbati.FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
